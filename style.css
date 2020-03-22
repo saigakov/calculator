@@ -1,0 +1,14 @@
+* {
+    box-sizing: border-box;
+  }
+
+.calculator {
+    height: 20%;
+    width: 20%;
+    border: 4px double black;
+}
+
+.style {
+    width: 20%;
+    height:20%;
+}
